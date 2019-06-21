@@ -1,4 +1,4 @@
-# paradeum-container-ui
+# vue-project-init
 
 ## Project setup
 ```
